@@ -121,3 +121,127 @@
 ![alt text](image-9.png)
 ![alt text](image-10.png)
 ![alt text](image-11.png)
+
+
+# Business Analysis: Assessing Business Needs
+
+## Key Takeaways
+
+- **Types of Business Needs**:
+  - **Problems or Improvement Needs**:
+    - Understand the nature of the problem.
+    - Assess the impact of the problem on the organization.
+    - Identify potential solutions to resolve the issue.
+
+  - **New Opportunities**:
+    - Focus on opportunities for organizational growth and expansion.
+    - Provide content and insights to support decision-making in these areas.
+
+  - **Compliance Requirements**:
+    - Address compliance requirements relevant to the organization and individuals.
+  
+  ![alt text](image-13.png)
+---
+
+# Situation and Solution Statements
+
+## Key Takeaways
+
+- **Documenting Findings**:
+  - Documenting findings is crucial for prioritizing work effectively.
+
+- **Situation Statement**:
+  - Describes the current problem or opportunity and its impact on the organization.
+  - **Format**: "The problem or opportunity has the effect of X on the organization with the resulting impact of Y."
+  - **Example**: An existing process causing delays and extra labor costs, leading to additional staff being hired.
+
+- **Tools for Understanding**:
+  - **Ishikawa Diagram**:
+    - Used for root cause analysis.
+  - **Five Whys**:
+    - Commonly used in agile projects to dig deeper into the cause of a problem.
+  - **Process Flow Models**:
+    - Help identify problems and recommend solutions.
+
+- **Solution Statement**:
+  - Recommends the most viable option to meet the need.
+  - Defines the initial scope and steps to transition from the current state to the future state.
+
+- **Feasibility Study**:
+  - May be required to gather more information about the solution's viability, including technical feasibility and cost estimation.
+
+- **Multiple Solutions**:
+  - Always provide multiple options for stakeholders to choose the best solution.
+
+---
+## quiz
+![alt text](image-14.png)
+![alt text](image-15.png)
+
+# Who are the Stakeholders?
+
+## Key Takeaways
+
+- **Definition of Stakeholders**:
+  - Stakeholders are individuals, groups, or organizations that may be affected by or can impact a decision, activity, or outcome of a project.
+
+- **Types of Stakeholders**:
+  - **Proposers**: Individuals or groups who propose the study or project.
+  - **Beneficiaries**: Those who will benefit from the solution.
+  - **Experts**: Individuals with special knowledge of the situation.
+  - **Users**: Those who will use, support, or implement the result.
+
+- **Impact on Projects**:
+  - Identifying all stakeholders is crucial for understanding who is affected by the project and who can influence the project, including regulatory groups or internal departments.
+
+---
+# Classifying Your Stakeholders
+
+## Key Takeaways
+
+- **Power/Interest Grid**:
+  - Stakeholders are classified based on their **power** (ability to affect the project) and **interest** (perception of how the project affects them).
+  ![alt text](image-16.png)
+
+- **Stakeholder Categories**:
+  - **Low Power, High Interest**:
+    - Affected by the project but can't make meaningful changes.
+  - **High Power, Low Interest**:
+    - Typically executives who want to know the bottom line but may have changing requests.
+  - **Low Power, Low Interest**:
+    - Often assigned due to availability, referred to as "warm bodies."
+  - **High Power, High Interest**:
+    - Need significant attention as they can suggest changes and are highly affected by the project.
+
+- **Assessment Importance**:
+  - Properly assessing stakeholders helps identify who provides necessary resources, decision-making power, data, and insights for successful business analysis activities.
+
+---
+
+# Engaging Stakeholders
+
+## Key Points
+
+- **Stakeholder Involvement**:
+  - Engaging stakeholders in the project increases their support for the outcome.
+  - Their understanding of the necessity for change facilitates the transition to the future state.
+
+- **Customized Engagement Plans**:
+  - Develop a tailored engagement plan for each stakeholder or group.
+  - Consider specific needs and preferences for communication (e.g., email, meetings, phone calls).
+
+- **Clear Communication**:
+  - Discuss goals, objectives, and scope boundaries with stakeholders.
+  - Ensure you understand their expectations and the reasons behind their information needs.
+
+- **Continual Monitoring**:
+  - Regularly monitor stakeholder involvement and adjust engagement strategies as needed.
+  - Be prepared for new stakeholders joining and others leaving, and adapt accordingly.
+
+- **Pre-schedule Meetings**:
+  - Especially with executives, plan and reserve time for meetings in advance.
+  - Remind them of their importance to the project’s success.
+
+| ![alt text](image-17.png) | ![alt text](image-18.png) | ![alt text](image-19.png) | ![alt text](image-20.png) |
+|---------------------------|---------------------------|---------------------------|---------------------------|
+---

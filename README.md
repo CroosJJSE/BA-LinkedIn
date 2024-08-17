@@ -245,3 +245,84 @@
 | ![alt text](image-17.png) | ![alt text](image-18.png) | ![alt text](image-19.png) | ![alt text](image-20.png) |
 |---------------------------|---------------------------|---------------------------|---------------------------|
 ---
+# Purpose of a Business Case
+
+- A business case justifies the resources needed for a project and aligns it with organizational objectives.
+- It includes results from the needs assessment and findings from key stakeholders.
+
+- Ensures the project meets the original requester's needs.
+- The business case is a living document and should be updated as organizational objectives change.
+- It provides valuable information for project initiation and helps ensure the project remains aligned with the organization's strategy.
+
+| ![alt text](image-23.png) | ![alt text](image-24.png) |
+|---------------------------|---------------------------|
+![alt text](image-22.png)
+
+# Content of a Business Case
+
+- **Major Components**: The business case includes the business needs and the previous analysis of the situation.
+  ![alt text](image-25.png)
+- **Business Needs Summary**: Identifies needs, stakeholders, and the initial project scope.
+- **Stakeholders**: Includes those involved in the needs assessment and those impacted by the project.
+- **Previous Analysis**: Covers organizational strategies, goals, root cause analysis, and supporting data for new opportunities.
+- **High-Level Assessments**: Includes risk assessments, assumptions, constraints, and recommendations for implementation options.
+- **Financial Measurements**: Utilizes methods like 
+  - payback period,
+  - net present value (NPV), 
+  - Depreciation
+  - cost benefit analysis,
+  - return on investment (ROI) to justify project resources.
+- **Collaboration**: The business analyst works with sponsors and key stakeholders to understand business needs and feasibility.
+
+## Quiz
+| ![alt text](image-26.png) | ![alt text](image-27.png) | ![alt text](image-28.png) | ![alt text](image-29.png) |
+|---------------------------|---------------------------|---------------------------|---------------------------|
+
+
+# Project Planning: Vision
+
+![alt text](image-30.png)
+
+- **Vision as a Goal:** The project vision is like a thesis statement or goal, representing an idealistic view of the desired outcome.
+- **Shared Vision:** It's crucial for the entire team, including sponsors, project managers, business analysts, and key stakeholders, to build and maintain a consensus on this vision.
+- **Project Charter:**
+
+  - **Why:** This is the vision, mission, and goals that are to be delivered by the result.
+  - **What:** Objectives identified in the business case, initial boundaries for scope, and what is not included.
+  - **Who:** Identify the key stakeholders, both internally and externally, who will play key roles in the project.
+  - **When:** The expected start and end dates, especially important when a final date is imposed or a time-sensitive constraint exists.
+  - **Where:** The work or deployment sites of the final solution.
+  - **How:** The collection of various approaches, including predictive or adaptive methods that are recommended.
+
+- **Elevator Pitch:** The vision should be concise, easily explainable, and frequently reviewed to ensure alignment across the team.
+
+
+![alt text](image-31.png)
+---
+
+# Project Roadmap
+
+- **Purpose of a Roadmap:** A project roadmap is a high-level, chronological representation of the expected delivery of features and functions, dependencies between milestones, and resource requirements. It provides transparency and helps keep everyone aligned.
+
+- **Visualization:** You can visualize the roadmap by using a string across a whiteboard with milestones marked along the way. A paper car or other fun metaphor can be used to represent the team's progress.
+![alt text](image-32.png)
+
+- **Flexibility:** The roadmap is flexible and allows the project to adapt to changing organizational objectives. Details are added as the start time nears.
+
+- **Communication Tool:** It's a key communication tool that shows the expected delivery timeframes for benefits and results, helping to keep everyone informed about the project's status.
+
+- **Stakeholder Engagement:** The level of detail in the roadmap should be tailored to various stakeholders, and it should be developed jointly by the business analyst and project manager.
+---
+
+# Project Planning: Responsibilities
+
+- **Project Scope vs. Product Scope:** The project manager is responsible for the project scope (deliverables and efforts to complete the project), while the business analyst handles the product scope (features and functions of the solution).
+
+- **Collaborative Activities:** Both the project manager and business analyst jointly identify and analyze stakeholders and plan activities for the team.
+
+- **Business Analyst's Role:** The business analyst provides the project manager with activities needed to elicit, analyze, evaluate, trace, verify, and validate requirements. These are then used to develop the business analysis plan, which is part of the overall project management plan.
+
+- **Adaptive Approach:** In adaptive projects, the business analyst's responsibilities are often fulfilled before release or iteration planning, focusing on clear understanding and prioritization of requirements.
+
+- **Traceability Tools:** The business analyst uses tools like the traceability matrix or task board to ensure all requirements are completed and approved.
+

@@ -1,5 +1,9 @@
 # BA-LinkedIn
 
+[Business Analysis Foundations - LinkedIn Learnings](https://www.linkedin.com/learning/business-analysis-foundations-4/prevent-project-failure-with-business-analysis?u=76664938)
+
+# PASSED IN EXAM
+![alt text](images/image-43.png)
 # Business Analysis Foundations
 
 ## Lecture 1
@@ -23,8 +27,8 @@
 - **Solution Evaluation**:
   - Understand the process of testing, validating, and releasing solutions.
 
-![alt text](image.png)
-![alt text](image-1.png)
+![alt text](images/image.png)
+![alt text](images/image-1.png)
 ---
 # What is Business Analysis (BA)?
 
@@ -49,7 +53,7 @@
 
 - **PMI Definition**:
   - Business analysis involves applying knowledge, skills, tools, and techniques to identify problems, determine business needs, recommend solutions, and manage **stakeholder requirements** to meet business and project objectives.
-  ![alt text](image-2.png)
+  ![alt text](images/image-2.png)
 
 - **Overall Takeaway**:
   - Business analysis is defined differently by various organizations, but it generally focuses on identifying and understanding business needs and providing solutions to enable change.
@@ -64,18 +68,18 @@
 
 - **Core Activities**:
   - BAs focus on understanding current needs in relation to strategic objectives and goals, and help achieve these goals through change.
-  ![alt text](image-3.png)
+  ![alt text](images/image-3.png)
 
 - **Situational Role**:
   - BAs may be involved in creating new products, enhancing existing ones, solving problems, and helping project teams understand customer needs.
 
 - **Organizational Impact**:
   - BAs can be part of a business organization, crafting strategic objectives, or a project team, explaining and implementing solutions.
-  ![alt text](image-4.png)
+  ![alt text](images/image-4.png)
 
 - **Change Agent**:
   - BAs play a crucial role as change agents, helping organizations transition from the current state to a desired future state.
-  ![alt text](image-5.png)
+  ![alt text](images/image-5.png)
 
 ---
 # Business Analyst Skill Set
@@ -106,21 +110,21 @@
 
 - **Analytical Skills**:
   - Critical and creative thinking, problem-solving, and system thinking are crucial for breaking down information, drawing conclusions, and formulating decisions.
-  ![alt text](image-8.png)
+  ![alt text](images/image-8.png)
 
 - **Communication Skills**:
   - Effective communication, including facilitation, presentation, active listening, and writing, is vital as BAs spend significant time collaborating with various stakeholders.
-  ![alt text](image-7.png)
+  ![alt text](images/image-7.png)
 
 - **Leadership**:
   - BAs often assume leadership roles, acting as agents of change and confidently communicating problems and solutions to organizational leaders.
 
 ---
 ## Quiz
-![alt text](image-12.png)
-![alt text](image-9.png)
-![alt text](image-10.png)
-![alt text](image-11.png)
+![alt text](images/image-12.png)
+![alt text](images/image-9.png)
+![alt text](images/image-10.png)
+![alt text](images/image-11.png)
 
 
 # Business Analysis: Assessing Business Needs
@@ -140,7 +144,7 @@
   - **Compliance Requirements**:
     - Address compliance requirements relevant to the organization and individuals.
   
-  ![alt text](image-13.png)
+  ![alt text](images/image-13.png)
 ---
 
 # Situation and Solution Statements
@@ -175,8 +179,8 @@
 
 ---
 ## quiz
-![alt text](image-14.png)
-![alt text](image-15.png)
+![alt text](images/image-14.png)
+![alt text](images/image-15.png)
 
 # Who are the Stakeholders?
 
@@ -201,7 +205,7 @@
 
 - **Power/Interest Grid**:
   - Stakeholders are classified based on their **power** (ability to affect the project) and **interest** (perception of how the project affects them).
-  ![alt text](image-16.png)
+  ![alt text](images/image-16.png)
 
 - **Stakeholder Categories**:
   - **Low Power, High Interest**:
@@ -242,7 +246,7 @@
   - Especially with executives, plan and reserve time for meetings in advance.
   - Remind them of their importance to the project’s success.
 
-| ![alt text](image-17.png) | ![alt text](image-18.png) | ![alt text](image-19.png) | ![alt text](image-20.png) |
+| ![alt text](images/image-17.png) | ![alt text](images/image-18.png) | ![alt text](images/image-19.png) | ![alt text](images/image-20.png) |
 |---------------------------|---------------------------|---------------------------|---------------------------|
 ---
 # Purpose of a Business Case
@@ -254,14 +258,14 @@
 - The business case is a living document and should be updated as organizational objectives change.
 - It provides valuable information for project initiation and helps ensure the project remains aligned with the organization's strategy.
 
-| ![alt text](image-23.png) | ![alt text](image-24.png) |
+| ![alt text](images/image-23.png) | ![alt text](images/image-24.png) |
 |---------------------------|---------------------------|
-![alt text](image-22.png)
+![alt text](images/image-22.png)
 
 # Content of a Business Case
 
 - **Major Components**: The business case includes the business needs and the previous analysis of the situation.
-  ![alt text](image-25.png)
+  ![alt text](images/image-25.png)
 - **Business Needs Summary**: Identifies needs, stakeholders, and the initial project scope.
 - **Stakeholders**: Includes those involved in the needs assessment and those impacted by the project.
 - **Previous Analysis**: Covers organizational strategies, goals, root cause analysis, and supporting data for new opportunities.
@@ -275,15 +279,16 @@
 - **Collaboration**: The business analyst works with sponsors and key stakeholders to understand business needs and feasibility.
 
 ## Quiz
-| ![alt text](image-26.png) | ![alt text](image-27.png) | ![alt text](image-28.png) | ![alt text](image-29.png) |
+| ![alt text](images/image-26.png) | ![alt text](images/image-27.png) | ![alt text](images/image-28.png) | ![alt text](images/image-29.png) |
 |---------------------------|---------------------------|---------------------------|---------------------------|
 
 
 # Project Planning: Vision
 
-![alt text](image-30.png)
+![alt text](images/image-30.png)
 
 - **Vision as a Goal:** The project vision is like a thesis statement or goal, representing an idealistic view of the desired outcome.
+The project vision should be based on the question, **"What will the result look like to stakeholders?"**
 - **Shared Vision:** It's crucial for the entire team, including sponsors, project managers, business analysts, and key stakeholders, to build and maintain a consensus on this vision.
 - **Project Charter:**
 
@@ -297,7 +302,7 @@
 - **Elevator Pitch:** The vision should be concise, easily explainable, and frequently reviewed to ensure alignment across the team.
 
 
-![alt text](image-31.png)
+![alt text](images/image-31.png)
 ---
 
 # Project Roadmap
@@ -305,7 +310,7 @@
 - **Purpose of a Roadmap:** A project roadmap is a high-level, chronological representation of the expected delivery of features and functions, dependencies between milestones, and resource requirements. It provides transparency and helps keep everyone aligned.
 
 - **Visualization:** You can visualize the roadmap by using a string across a whiteboard with milestones marked along the way. A paper car or other fun metaphor can be used to represent the team's progress.
-![alt text](image-32.png)
+![alt text](images/image-32.png)
 
 - **Flexibility:** The roadmap is flexible and allows the project to adapt to changing organizational objectives. Details are added as the start time nears.
 
@@ -325,4 +330,117 @@
 - **Adaptive Approach:** In adaptive projects, the business analyst's responsibilities are often fulfilled before release or iteration planning, focusing on clear understanding and prioritization of requirements.
 
 - **Traceability Tools:** The business analyst uses tools like the traceability matrix or task board to ensure all requirements are completed and approved.
+---
+
+# Requirement Types
+![alt text](images/image-33.png)
+- **Business Requirements:** Represent the higher-level needs of the organization, identified through the needs assessment process as issues or opportunities.
+
+
+- **Stakeholder Requirements:** Describe the needs of individual stakeholders or groups, which can be internal or external to the organization.
+
+- **Solution Requirements:** Focus on the features, functions, and characteristics of the final result. These are divided into:
+  - **Functional Requirements:** What the user will be able to do or receive.
+  - **Nonfunctional Requirements:** Environment or quality of service conditions, including technology requirements.
+
+- **Transition Requirements:** Activities needed to transition from the current state to the desired future state, including training, documentation, and implementation requirements.
+
+- **Project Requirements:** Responsibilities of the project manager, including processes and deliverables to ensure project completion on time.
+
+- **Quality Requirements:** Conditions or capabilities used to assess conformance to requirements, managed by quality analysts or quality assurance groups.
+---
+# Requirements Elicitation Techniques
+
+- **Facilitated Sessions:** Use a facilitator to guide discussions, prompt brainstorming, and ensure goals are met. These sessions are iterative and involve cross-functional participants to uncover gaps and needs.
+![alt text](images/image-34.png)
+
+- **Interview Types:**
+  - **Highly Structured:** Predefined questions.
+  - **Semi-Structured:** Some prepared questions with follow-ups.
+  - **Unstructured:** Natural conversation flow, useful for sensitive information.
+
+- **Documentation Analysis:** Review existing documents to understand why certain information is present. Stakeholders can mark what they use, revealing important insights.
+
+- **Shadowing and Surveys:** Observe stakeholders in their environment or use questionnaires for large groups. Open-ended questions provide detailed responses but require more time to analyze.
+
+- **Choosing Techniques:** Consider project type, time and budget constraints, number and location of stakeholders, and required documentation detail. Avoid analysis paralysis by constraining elicitation to two phases: initial and discovery.
+---
+
+# Using Requirements Modeling Techniques
+
+- **Three Points of View:** Requirements are analyzed from three perspectives: nouns (data), verbs (processes), and rules (business rules).
+
+- **Modeling Techniques:**
+  - **Process Modeling:** Focuses on verbs, identifying the steps required to complete tasks.
+  - **Data Modeling:** Focuses on nouns, identifying the data elements involved.
+
+- **Collaborative Approach:** Using tools like whiteboards and sticky notes during face-to-face discussions with stakeholders to capture and visualize requirements.
+---
+
+# Traceability Matrix and Taskboard
+![alt text](images/image-35.png)
+- **Traceability Approach:** This is a method to track how requirements are related and their progress. It helps in identifying obstacles and taking appropriate actions to remove them.
+
+- **Traceability Matrix:** A digital document used to track project requirements, visualize progress, and consolidate documentation. It acts as a central hub for all project requirement information.
+
+- **Task Board:** A physical board (like Scrum or Kanban) used to visualize the status of requirements with columns such as to-do, in progress, and done.
+![alt text](images/image-36.png)
+
+- **Importance:** Both tools help in improving communication, clarifying progress, and assessing the impact of changes to requirements and project scope.
+---
+
+# Change Control
+
+- **Embrace Change:** Change is constant and happens faster today. Instead of resisting, analyze and manage it.
+
+- **Change Request Process:** Organizations have processes to log and analyze change requests, determining their impact and importance.
+
+- **Approval Levels:** Different levels of impact require different approval authorities, such as business analysts, project managers, or a change control board (CCB).
+
+- **Shorter Work Timeframes:** Breaking work into smaller portions makes it easier to incorporate changes.
+
+- **Configuration Control:** Track changes to documents or processes via version control to ensure everyone uses the most recent version.
+ ---
+ # Testing and Verifying the Requirements
+
+- **Verification Importance:** Ensures a clear and complete understanding of requirements through continuous collaboration with stakeholders.
+
+- **Detail and Acceptance Criteria:** Gather necessary details and acceptance criteria for each requirement to aid developers.
+
+- **Verification Methods:**
+  - **Predictive Approach:** Formal review of requirement specification documents.
+  - **Adaptive Approach:** Collaborative conversations and modeling activities.
+
+- **Testing Levels:** Various levels of testing are performed to verify that requirements meet specifications.
+
+- **Role of Business Analyst:** Helps plan testing activities, including identifying test scripts and test data.
+
+- **Traceability Matrix:** Used to record testing results and link documentation to each requirement.
+
+- **Cost of Quality:** Analyzes the appropriate level of testing needed, considering the law of diminishing returns.
+---
+# Validating the Requirements
+  |![alt text](images/image-37.png)| ![alt text](images/image-38.png)|
+  |---------------------------|---------------------------|
+- **Validation vs. Verification:** Validation ensures the result meets acceptance criteria and stakeholder needs, while verification checks conformance to specifications.
+
+- **Acceptance Criteria:** Creating detailed acceptance criteria is crucial and should be done through continuous discussion and review among the business analyst, developer, and stakeholder.
+
+- **Responsibility Matrix:** A tool like a RACI matrix helps identify the approving stakeholders for each requirement.
+![alt text](images/image-39.png)
+
+- **Traceability Matrix:** Ensures all requirements are completed and accepted, helping to avoid missing or insufficient acceptance criteria.
+
+---
+# Project Release Planning
+![alt text](images/image-40.png)
+- **Importance of Release Planning:** Planning for the release starts early, often with the design of the project roadmap, and involves deciding what will be delivered and when.
+
+- **Prioritization:** Prioritize requirements by feasibility and value, ensuring high-priority items (big rocks) are addressed first.
+| ![alt text](images/image-41.png) | ![alt text](images/image-42.png) |
+  |---------------------------|---------------------------|
+- **Audience Consideration:** Tailor the release plan based on the needs and nature of the audience, such as organizational strategies or specific departmental changes.
+
+
+
 
